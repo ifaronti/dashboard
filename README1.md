@@ -50,7 +50,6 @@ I'll like to learn more about positioning in CSS. It is very important to any pr
 ## Author
 
 - Frontend Mentor - [ifaronti](https://www.frontendmentor.io/profile/ifaronti)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 ## Acknowledgments
 
